@@ -55,25 +55,64 @@ Network ==>
 Day 2: 27th Nov. 2025
 ######################
 
+DevOps: Modules :
+
+	Linux
+	Git/GitHub
+	Jenkins 
+	Docker
+	Kubernetes 
+	Ansible 
+	Terraform 
+	Prometheus 
+	Grafana 
+	Python 
+	
+	AWS :
+	
+		ECS 	--> Docker
+		ECR 	--> DockerHub
+
 	Training Pre-Requisites :
 	
 		- Create a GitHub Account 
-			https://github.com/
-		
-			
+			https://github.com/				# Version the Application Source Code
+				
+				- Need Active Email_ID
+				
 		- Create a DockerHub Account 
-		
-		
-		- Create an AWS Free Tier Account 
-	
+			https://hub.docker.com/			# Version the Application Container Images
+			
+				- Need Active Email_ID
+			
+		- Create an AWS Free Tier Account :
+			https://aws.amazon.com/console/
+			
+			https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html
+			
+			- Create AWS Free Tier Account - 6 - 12 Months
+			
+				- Active Email_ID
+				- Active Mobile_Number
+				- Active Credit/Debit Card(Enabled with International Transaction)
+				
+				- PAN Card Number
+				
 	
 		- Install Visual Studio Code - IDE on Local Machine
-		
+			https://code.visualstudio.com/download
+			
+				- Install Python Extension for VS Code 
+			
 		
 		- Install Python on Local Machine
+			https://www.python.org/downloads/
+				IDE - IDLE - Python shell Prompt 
+				
+				PyCharm IDE ***Option
+				
 
-
-	Introduction to Cloud Computing :
+	Introduction to Cloud Computing :::
 	
 		Provision/Create AWS Resources :
 		
@@ -84,3 +123,88 @@ Day 2: 27th Nov. 2025
 			- IAC(Infra-Structure as Code) Tools like CloudFormation/Terraform *****
 			
 			- Using AWS SDK Libraries in Python **
+			
+
+	Introduction to Cloud Computing :::
+	
+		On-Premise Data Centers 
+	
+		IT Service	--> Online E_Commerce Application - Web Service like www.amazon.com
+		
+		IT Infra-Structure :
+		
+			- Compute Services 
+			- Storage Services
+			- DataBase Services 
+			- Networking Services 
+			- Security Services
+			
+			- Ensure High Availability, Security, Reliablity
+			
+			Core Linux Administration ==> Linux Servers			
+			
+			Create a Account with any Cloud Service Provider - AWS/Azure/GCP/Digital Ocean
+			
+			$200 USD 
+			
+			Linux Servers
+			
+		People who haven't used Cloud Services :::
+		
+		
+		Gmail Account 
+			- google Drive - 15GB ==> Public Cloud!
+		
+		facebook
+		
+		Netflix 
+		
+		
+	Cloud Solutions Architect ==> 
+	
+		- Public Cloud / Private Cloud 
+			
+			
+	Hybrid Environment :
+	
+		--> AWS Cloud 
+		
+		-> Cloud Migration 
+		
+		-> Application Migration 30 - 40 Year Old Applications
+		
+			Monolith Applications 
+			
+				- All the light weight application components 
+				
+			DevOps ::: 
+			
+			Created a Application Component
+			
+				Deploy this Component in both the Infra-Structure using DevOps Workload
+				
+				
+	Hybrid - Multi-Cloud Platform 
+	
+		On-Premise,AWS,Azure 
+		
+		DevOps at Enterprise Level
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+				
+		
+	
+	
